@@ -1,0 +1,13 @@
+GetFirstFlightIntent get flights to {destination}
+GetFirstFlightIntent give me flights to {destination}
+GetFirstFlightIntent {destination}
+
+GetNextFlightIntent yes
+GetNextFlightIntent yup
+GetNextFlightIntent sure
+GetNextFlightIntent yes please
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you

@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "GetFirstFlightIntent",
+      "slots": [
+        {
+          "name": "destination",
+          "type": "LIST_OF_DESTINATIONS"
+        }
+      ]
+    },
+    {
+      "intent": "GetNextFlightIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
